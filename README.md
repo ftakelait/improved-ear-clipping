@@ -11,6 +11,11 @@ This repository contains Python code to test the performance of an improved Ear 
 
 ## Running the Code
 
+You can install the necessary Python packages using pip:
+```
+pip install -r requirements.txt
+```
+
 To run the code, navigate to the `src` directory and run the `main.py` script:
 
 ```bash
